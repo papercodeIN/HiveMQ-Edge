@@ -17,7 +17,6 @@
   </a>
 </p>
 
-
 ---
 
 - [Download HiveMQ Edge](https://www.hivemq.com/releases/hivemq-edge-latest.zip)
