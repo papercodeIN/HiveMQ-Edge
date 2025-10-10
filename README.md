@@ -20,6 +20,12 @@
 
 ---
 
+- [Download HiveMQ Edge]()
+- [Download Java]()
+- 
+
+---
+
 ##
 $\color{Green}\Huge{\textbf{Basic}}$
 
@@ -37,6 +43,9 @@ $\color{Green}\Huge{\textbf{Basic}}$
     ```
     
 4. 🆓How to Run HiveMQ Edge in Docker [[Watch]](https://youtu.be/jlxbcqCDhjo)
+    ```
+    docker run --name hivemq-edge -d -p 1883:1883 -p 8080:8080 hivemq/hivemq-edge
+    ```
 
 ##
 $\color{Green}\Huge{\textbf{Protocol Adapter}}$
