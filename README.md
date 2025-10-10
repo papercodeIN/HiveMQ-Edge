@@ -20,8 +20,8 @@
 
 ---
 
-- [Download HiveMQ Edge]()
-- [Download Java]()
+- [Download HiveMQ Edge](https://www.hivemq.com/releases/hivemq-edge-latest.zip)
+- [Download Java](https://www.oracle.com/in/java/technologies/downloads/#jdk21-windows)
 - 
 
 ---
