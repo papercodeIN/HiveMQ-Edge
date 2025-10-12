@@ -51,12 +51,13 @@ $\color{Green}\Huge{\textbf{Protocol Adapter}}$
 
 1. 🆓[OLD] Configure OPC-UA Protocol Adapter in HiveMQ Edge [[Watch]](https://youtu.be/jFFr-L1u6fM)
 2. ⏳️ Configure OPC-UA Protocol Adapter in HiveMQ Edge [Watch]
-3. ⏳️ Configure Modbus TCP Protocol Adapter in HiveMQ Edge [Watch]
+3. ✅ Configure Modbus TCP Protocol Adapter in HiveMQ Edge [Watch]
 
 ##
 $\color{Green}\Huge{\textbf{MQTT Bridge}}$
 1. 🆓[OLD] Setting Up MQTT Bridge in HiveMQ Edge to Stream OPC-UA Data [[Watch]](https://youtu.be/b_H2F7ZvjMU)
 2. ⏳️Setting Up MQTT Bridge in HiveMQ Edge to Stream OPC-UA Data [Watch]
+3. ⏳️Setting Up MQTT Bridge in HiveMQ Edge to Stream Modbus TCP Device Data [Watch]
 
 ---
 
