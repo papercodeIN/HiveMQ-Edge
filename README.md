@@ -25,7 +25,6 @@
 
 ---
 
-##
 $\color{Green}\Huge{\textbf{Basic}}$
 
 1. 🆓Brief Introduction to HiveMQ Edge Architecture [[Watch]](https://youtu.be/KFWCOGpTt6U)
