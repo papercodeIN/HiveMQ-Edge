@@ -50,7 +50,7 @@ $\color{Green}\Huge{\textbf{Protocol Adapter}}$
 
 1. 🆓[OLD] Configure OPC-UA Protocol Adapter in HiveMQ Edge [[Watch]](https://youtu.be/jFFr-L1u6fM)
 2. ⏳️ Configure OPC-UA Protocol Adapter in HiveMQ Edge [Watch]
-3. ✅ Configure Modbus TCP Protocol Adapter in HiveMQ Edge [Watch]
+3. 🆓 Configure Modbus TCP Protocol Adapter in HiveMQ Edge [Watch](https://youtu.be/DO_uxdZkD3k)
 
 ##
 $\color{Green}\Huge{\textbf{MQTT Bridge}}$
