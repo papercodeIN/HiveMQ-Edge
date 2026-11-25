@@ -10,13 +10,20 @@
 
 *Learn to install and run HiveMQ Edge on Windows, Linux and Docker, configure Protocol Adapters (OPC-UA, Modbus TCP) and bridge your shop-floor data to any MQTT broker — one short lesson at a time.*
 
+<p align="center">
+  <a href="https://www.hivemq.com/releases/hivemq-edge-latest.zip"><img src="https://img.shields.io/badge/Download_HiveMQ_Edge-FF6900?style=for-the-badge&logo=hivemq&logoColor=white" alt="Download HiveMQ Edge"></a>
+  <a href="https://www.oracle.com/in/java/technologies/downloads/#jdk21-windows"><img src="https://img.shields.io/badge/Download_Java_JDK_21-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Download Java"></a>
+</p>
+
 <br>
 
-**⬇️ Downloads**
-
-- [Download HiveMQ Edge](https://www.hivemq.com/releases/hivemq-edge-latest.zip)
-- [Download Java](https://www.oracle.com/in/java/technologies/downloads/#jdk21-windows)
-- [Free VirtualLabs](https://techbloomeracademy.com/virtual_lab/)
+<p align="center">
+  <a href="https://www.youtube.com/@Fusion_Automate"><img src="https://img.shields.io/badge/YouTube-FusionAutomate-%23FF0000?style=for-the-badge&logo=youtube" alt="YouTube"></a>
+  <a href="https://www.instagram.com/fusion_automate"><img src="https://img.shields.io/badge/Instagram-fusion__automate-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram"></a>
+  <a href="https://x.com/fusion_automate"><img src="https://img.shields.io/badge/X-fusion__automate-000000?style=for-the-badge&logo=x" alt="X (Twitter)"></a>
+  <a href="https://t.me/fusionautomate"><img src="https://img.shields.io/badge/Telegram-%40fusionautomate-%2326A5E4?style=for-the-badge&logo=telegram" alt="Telegram"></a>
+  <a href="https://fusionautomate.in/"><img src="https://img.shields.io/badge/Website-fusionautomate.in-blueviolet?style=for-the-badge" alt="Website"></a>
+</p>
 
 </div>
 
