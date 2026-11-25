@@ -22,6 +22,8 @@
   <a href="https://www.instagram.com/fusion_automate"><img src="https://img.shields.io/badge/Instagram-fusion__automate-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram"></a>
   <a href="https://x.com/fusion_automate"><img src="https://img.shields.io/badge/X-fusion__automate-000000?style=for-the-badge&logo=x" alt="X (Twitter)"></a>
   <a href="https://t.me/fusionautomate"><img src="https://img.shields.io/badge/Telegram-%40fusionautomate-%2326A5E4?style=for-the-badge&logo=telegram" alt="Telegram"></a>
+  <a href="https://wa.me/919974477759"><img src="https://img.shields.io/badge/WhatsApp-%2B91_99744_77759-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="mailto:eng.innovativ@gmail.com"><img src="https://img.shields.io/badge/Email-eng.innovativ%40gmail.com-c71610?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://fusionautomate.in/"><img src="https://img.shields.io/badge/Website-fusionautomate.in-blueviolet?style=for-the-badge" alt="Website"></a>
 </p>
 
@@ -90,33 +92,6 @@ docker run --name hivemq-edge -d -p 1883:1883 -p 8080:8080 hivemq/hivemq-edge
 |:-:|--------|:-----:|
 | 1 | 🆓 MQTT Bridge · Stream OPC-UA Data to MQTT Broker | [![Watch](https://img.shields.io/badge/▶_Watch-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/b_H2F7ZvjMU) |
 | 2 | MQTT Bridge · Stream Modbus TCP Device Data | ⌛ |
-
----
-
-<h1 align="center">📢 Reach Out to Us for Any Queries ⤵️</h1>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th>📞 Contact Method</th>
-      <th>🔗 Details</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Call / WhatsApp</td>
-      <td><a href="https://wa.me/919974477759">+91-9974477759</a></td>
-    </tr>
-    <tr>
-      <td>Telegram</td>
-      <td><a href="https://t.me/fusionautomate">@fusionautomate</a></td>
-    </tr>
-    <tr>
-      <td>Email</td>
-      <td><a href="mailto:eng.innovativ@gmail.com">eng.innovativ@gmail.com</a></td>
-    </tr>
-  </tbody>
-</table>
 
 ---
 
