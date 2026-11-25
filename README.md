@@ -1,6 +1,7 @@
 <div align="center">
 
 <h1>🎓 HiveMQ Edge</h1>
+
 ### Self-Paced Training Course · MQTT · Edge · Protocol Adapters
 
 [![Tool](https://img.shields.io/badge/Tool-HiveMQ_Edge_(Open_Source)-FF6900?style=for-the-badge)](https://www.hivemq.com/hivemq-edge/)
